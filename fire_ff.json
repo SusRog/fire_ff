@@ -1,0 +1,935 @@
+{ "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+      
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        "openads":"ca-app-pub-3940256099942544/1033173712",
+        "interval": 6,
+        "pengaturan_iklan":"1",
+        
+        "fan_inter":"#",
+        "fan_banner_native":"#",
+
+        "inmobi_inter":"#",
+        "inmobi_banner":"#",
+        "inmobi_id":"#",
+        
+        "startaap":"1234567890",
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+
+        }
+    ],
+
+"More":
+  [ 
+  {
+    "id":1,
+    "judul":"Among Us Wallpapers HD",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/7f9a294714df45f18c568976a8b8d106.png",
+    "link":"https://appgallery.huawei.com/#/app/C103020613"
+  },
+  {
+    "id":2,
+    "judul":"Among Us Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/891f12ce71a94fbab6e7869a52caae10.png",
+    "link":"https://appgallery.huawei.com/#/app/C102999935"
+  },
+  {
+    "id":3,
+    "judul":"PUBG Wallpapers 4K",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/044be08e6f0c4beda5d5fe1e292d1153.png",
+    "link":"https://appgallery.huawei.com/#/app/C103004863"
+  }
+
+  ],
+  
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "FreeFire 1",
+      "gambar": "https://i.pinimg.com/564x/98/33/64/9833643ab3477866688745a6dfb5efd3.jpg"
+     
+    },
+    {
+      "id": 2,
+      "nama_cat": "FreeFire 2",
+      "gambar": "https://i.pinimg.com/564x/cf/24/6a/cf246acef0f8f905df48fa82c02e22ff.jpg"
+    
+    },
+    {
+      "id": 3,
+      "nama_cat": "FreeFire 3",
+      "gambar": "https://i.pinimg.com/564x/1e/db/dd/1edbdd672a4ac2dfc50828999b34594f.jpg"
+    
+    },
+	{
+      "id": 4,
+      "nama_cat": "FreeFire 4",
+      "gambar": "https://i.pinimg.com/564x/fb/04/c7/fb04c7c4af00f3b6ffd94b991b47bee2.jpg"
+     
+    },
+    {
+      "id": 5,
+      "nama_cat": "FreeFire 5",
+      "gambar": "https://i.pinimg.com/564x/ed/76/f8/ed76f8c3aa57df8a13ec588230db5a96.jpg"
+    
+    },
+    {
+      "id": 6,
+      "nama_cat": "FreeFire 6",
+      "gambar": "https://i.pinimg.com/564x/85/2e/88/852e882ebd1dd42d40b4e56e3ec197fd.jpg"
+    
+    }
+  ],
+
+  "Wallpaper":
+  [ 
+    {
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 1",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/1-7-768x1365.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 2",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/2-5-768x1365.jpg"
+    },
+    {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 3",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/3-3-768x1365.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 4",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/4-2-768x1365.jpg"
+    },
+    {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 5",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/5-768x1365.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 6",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/6-768x1365.jpg"
+    },
+	{
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 7",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/7-768x1365.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 8",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/8-768x1365.jpg"
+    },
+    {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 9",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/9-768x1365.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 10",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/10-768x1365.jpg"
+    },
+    {
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 11",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/11-758x1348.jpg"
+    },
+    {
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 12",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/12-758x1348.jpg"
+    },
+	{
+      "id":13,
+      "id_wall":"013",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 13",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/13-758x1348.jpg"
+    },
+    {
+      "id":14,
+      "id_wall":"014",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 14",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/14-758x1348.jpg"
+    },
+      {
+      "id":15,
+      "id_wall":"015",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 15",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/15-768x1365.jpg"
+    },
+    {
+      "id":16,
+      "id_wall":"016",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 16",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/16-768x1365.jpg"
+    },
+	{
+      "id":17,
+      "id_wall":"017",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 17",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/17-768x1365.jpg"
+    },
+    {
+      "id":18,
+      "id_wall":"018",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 18",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/18-768x1365.jpg"
+    },
+      {
+      "id":19,
+      "id_wall":"019",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 19",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/19.jpg"
+    },
+    {
+      "id":20,
+      "id_wall":"020",
+      "nama_cat": "FreeFire 1",
+      "judul":"AImage 20",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/20-758x1348.jpg"
+    },
+	{
+      "id":21,
+      "id_wall":"021",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 1",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/21-758x1348.jpg"
+    },
+    {
+      "id":22,
+      "id_wall":"022",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 2",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/22-758x1348.jpg"
+    },
+    {
+      "id":23,
+      "id_wall":"023",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 3",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/23-758x1348.jpg"
+    },
+    {
+      "id":24,
+      "id_wall":"024",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 4",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/24-758x1348.jpg"
+    },
+    {
+      "id":25,
+      "id_wall":"025",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 5",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/25-758x1348.jpg"
+    },
+    {
+      "id":26,
+      "id_wall":"026",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 6",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/26-758x1348.jpg"
+    },
+	{
+      "id":27,
+      "id_wall":"027",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 7",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/27-758x1348.jpg"
+    },
+    {
+      "id":28,
+      "id_wall":"028",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 8",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/28-758x1348.jpg"
+    },
+    {
+      "id":29,
+      "id_wall":"029",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 9",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/29-758x1348.jpg"
+    },
+    {
+      "id":30,
+      "id_wall":"030",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 10",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/30-758x1348.jpg"
+    },
+    {
+      "id":31,
+      "id_wall":"031",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 11",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/31-758x1348.jpg"
+    },
+    {
+      "id":32,
+      "id_wall":"032",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 12",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/32-1-758x1348.jpg"
+    },
+	{
+      "id":33,
+      "id_wall":"033",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 13",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/33-758x1348.jpg"
+    },
+    {
+      "id":34,
+      "id_wall":"034",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 14",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/34-758x1348.jpg"
+    },
+      {
+      "id":35,
+      "id_wall":"035",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 15",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/35-758x1348.jpg"
+    },
+    {
+      "id":36,
+      "id_wall":"036",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 16",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/36-758x1348.jpg"
+    },
+	{
+      "id":37,
+      "id_wall":"037",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 17",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/37-758x1348.jpg"
+    },
+    {
+      "id":38,
+      "id_wall":"038",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 18",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/38-758x1348.jpg"
+    },
+      {
+      "id":39,
+      "id_wall":"039",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 19",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/39-758x1348.jpg"
+    },
+    {
+      "id":40,
+      "id_wall":"040",
+      "nama_cat": "FreeFire 2",
+      "judul":"BImage 20",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/40-758x1348.jpg"
+    },
+	{
+      "id":41,
+      "id_wall":"041",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 1",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/44-758x1348.jpg"
+    },
+    {
+      "id":42,
+      "id_wall":"042",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 2",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/45-758x1348.jpg"
+    },
+    {
+      "id":43,
+      "id_wall":"043",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 3",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/46-758x1348.jpg"
+    },
+    {
+      "id":44,
+      "id_wall":"044",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 4",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/47-758x1348.jpg"
+    },
+    {
+      "id":45,
+      "id_wall":"045",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 5",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/48-758x1348.jpg"
+    },
+    {
+      "id":46,
+      "id_wall":"046",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 6",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/49-758x1348.jpg"
+    },
+	{
+      "id":47,
+      "id_wall":"047",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 7",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/50-758x1348.jpg"
+    },
+    {
+      "id":48,
+      "id_wall":"048",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 8",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/41-758x1348.jpg"
+    },
+    {
+      "id":49,
+      "id_wall":"049",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 9",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/42-758x1348.jpg"
+    },
+    {
+      "id":50,
+      "id_wall":"050",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 10",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/43-758x1348.jpg"
+    },
+    {
+      "id":51,
+      "id_wall":"051",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 11",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/55-758x1348.jpg"
+    },
+    {
+      "id":52,
+      "id_wall":"052",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 12",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/56-758x1348.jpg"
+    },
+	{
+      "id":53,
+      "id_wall":"053",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 13",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/57.jpg"
+    },
+    {
+      "id":54,
+      "id_wall":"054",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 14",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/58.jpg"
+    },
+      {
+      "id":55,
+      "id_wall":"055",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 15",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/59.jpg"
+    },
+    {
+      "id":56,
+      "id_wall":"056",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 16",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/60.jpg"
+    },
+	{
+      "id":57,
+      "id_wall":"057",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 17",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/51-758x1348.jpg"
+    },
+    {
+      "id":58,
+      "id_wall":"058",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 18",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/52-758x1348.jpg"
+    },
+      {
+      "id":59,
+      "id_wall":"059",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 19",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/53-758x1348.jpg"
+    },
+    {
+      "id":60,
+      "id_wall":"060",
+      "nama_cat": "FreeFire 3",
+      "judul":"CImage 20",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/54-758x1348.jpg"
+    },
+	{
+      "id":61,
+      "id_wall":"061",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 1",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/66.jpg"
+    },
+    {
+      "id":62,
+      "id_wall":"062",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 2",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/67.jpg"
+    },
+    {
+      "id":63,
+      "id_wall":"063",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 3",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/65.jpg"
+    },
+    {
+      "id":64,
+      "id_wall":"064",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 4",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/64.jpg"
+    },
+    {
+      "id":65,
+      "id_wall":"065",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 5",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/63.jpg"
+    },
+    {
+      "id":66,
+      "id_wall":"066",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 6",
+      "image":"https://gamebrott.com/wp-content/uploads/2019/08/62.jpg"
+    },
+	{
+      "id":67,
+      "id_wall":"067",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 7",
+      "image":"https://i.pinimg.com/564x/95/99/0b/95990bdbf0fb9cd2f8bbbcd630ea8612.jpg"
+    },
+    {
+      "id":68,
+      "id_wall":"068",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 8",
+      "image":"https://i.pinimg.com/564x/04/93/f0/0493f0cf94b542c47e9cc6df1d7ba321.jpg"
+    },
+    {
+      "id":69,
+      "id_wall":"069",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 9",
+      "image":"https://i.pinimg.com/564x/1d/70/f0/1d70f0f0d90b70cee8c52b0cafa5f4cb.jpg"
+    },
+    {
+      "id":70,
+      "id_wall":"070",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 10",
+      "image":"https://i.pinimg.com/564x/f1/5b/5a/f15b5acc085162e66ef3a164e2315a6f.jpg"
+    },
+    {
+      "id":71,
+      "id_wall":"071",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 11",
+      "image":"https://i.pinimg.com/564x/b2/fe/60/b2fe60b84a5964aede5bf26f106ebbb5.jpg"
+    },
+    {
+      "id":72,
+      "id_wall":"072",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 12",
+      "image":"https://i.pinimg.com/564x/4e/ba/98/4eba98286516afa4b7ae6adac8df3ff0.jpg"
+    },
+	{
+      "id":73,
+      "id_wall":"073",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 13",
+      "image":"https://i.pinimg.com/564x/c5/18/df/c518df2d95faed8f595d0e3cad301ac7.jpg"
+    },
+    {
+      "id":74,
+      "id_wall":"074",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 14",
+      "image":"https://i.pinimg.com/564x/9f/bd/12/9fbd1264e4ae4dfcdc90afa0fd388bdd.jpg"
+    },
+      {
+      "id":75,
+      "id_wall":"075",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 15",
+      "image":"https://i.pinimg.com/564x/9f/17/28/9f172805402162fbfdf62a78bc1c2f3c.jpg"
+    },
+    {
+      "id":76,
+      "id_wall":"076",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 16",
+      "image":"https://i.pinimg.com/564x/23/04/3b/23043b170853eb7931b68c0aea115b57.jpg"
+    },
+	{
+      "id":77,
+      "id_wall":"077",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 17",
+      "image":"https://i.pinimg.com/564x/63/0c/6e/630c6ef23cbd07706a5481419b5cdbca.jpg"
+    },
+    {
+      "id":78,
+      "id_wall":"078",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 18",
+      "image":"https://i.pinimg.com/564x/a9/d0/c1/a9d0c1b658dd9d6ec4842d65abd8cd31.jpg"
+    },
+      {
+      "id":79,
+      "id_wall":"079",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 19",
+      "image":"https://i.pinimg.com/564x/01/a6/b9/01a6b98a331aa5eb2de4be03e236f077.jpg"
+    },
+    {
+      "id":80,
+      "id_wall":"080",
+      "nama_cat": "FreeFire 4",
+      "judul":"DImage 20",
+      "image":"https://i.pinimg.com/564x/31/98/1f/31981f99b8d413b06e908a34b06f4669.jpg"
+    },
+	{
+      "id":81,
+      "id_wall":"081",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 1",
+      "image":"https://i.pinimg.com/564x/29/55/9c/29559cf417750ab59ceb720d25e7b7df.jpg"
+    },
+    {
+      "id":82,
+      "id_wall":"082",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 2",
+      "image":"https://i.pinimg.com/564x/4a/16/8b/4a168bce5379f0794b11137ea37270e7.jpg"
+    },
+    {
+      "id":83,
+      "id_wall":"083",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 3",
+      "image":"https://i.pinimg.com/564x/ec/c2/5f/ecc25f51578b9e63e321617ab797dce3.jpg"
+    },
+    {
+      "id":84,
+      "id_wall":"084",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 4",
+      "image":"https://i.pinimg.com/564x/33/ab/41/33ab4129a3cc0ba004d7034d34df75d1.jpg"
+    },
+    {
+      "id":85,
+      "id_wall":"085",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 5",
+      "image":"https://i.pinimg.com/564x/71/9f/82/719f82868b265cc3b169fda4f9c7ac03.jpg"
+    },
+    {
+      "id":86,
+      "id_wall":"086",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 6",
+      "image":"https://i.pinimg.com/564x/be/d8/bd/bed8bd178576aeaf1c921bc0a0df09cd.jpg"
+    },
+	{
+      "id":87,
+      "id_wall":"087",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 7",
+      "image":"https://i.pinimg.com/564x/a8/dd/94/a8dd94ac04890be86e9b8ba0038ba30b.jpg"
+    },
+    {
+      "id":88,
+      "id_wall":"088",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 8",
+      "image":"https://i.pinimg.com/564x/5d/13/64/5d13645aee875d2ba079ea906dec2c14.jpg"
+    },
+    {
+      "id":89,
+      "id_wall":"089",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 9",
+      "image":"https://i.pinimg.com/564x/de/37/8b/de378b8ba7b61677ae1d0ebde54a07a3.jpg"
+    },
+    {
+      "id":90,
+      "id_wall":"090",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 10",
+      "image":"https://i.pinimg.com/564x/5b/9a/b1/5b9ab166f312b70e241ca4dd71783520.jpg"
+    },
+    {
+      "id":91,
+      "id_wall":"091",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 11",
+      "image":"https://i.pinimg.com/564x/1d/19/6d/1d196d35e213399f282e8a18b2aada41.jpg"
+    },
+    {
+      "id":92,
+      "id_wall":"092",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 12",
+      "image":"https://i.pinimg.com/564x/a3/77/f7/a377f77449010194b90cee270065e81b.jpg"
+    },
+	{
+      "id":93,
+      "id_wall":"093",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 13",
+      "image":"https://i.pinimg.com/564x/44/d4/f6/44d4f6234e0f726b0ba925b104f47f19.jpg"
+    },
+    {
+      "id":94,
+      "id_wall":"094",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 14",
+      "image":"https://i.pinimg.com/564x/1f/7e/0c/1f7e0c271c223f2d88f094c91a156cf1.jpg"
+    },
+      {
+      "id":95,
+      "id_wall":"095",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 15",
+      "image":"https://i.pinimg.com/564x/a0/85/95/a08595db5c55e075327b36a43e5d4262.jpg"
+    },
+    {
+      "id":96,
+      "id_wall":"096",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 16",
+      "image":"https://i.pinimg.com/564x/26/d5/ad/26d5ad50b4438fb24e23edbfbdeff743.jpg"
+    },
+	{
+      "id":97,
+      "id_wall":"097",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 17",
+      "image":"https://i.pinimg.com/564x/31/18/6e/31186e457d075a88752602998e706cfa.jpg"
+    },
+    {
+      "id":98,
+      "id_wall":"098",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 18",
+      "image":"https://i.pinimg.com/564x/2b/47/2c/2b472cc33bc14c6af07fd29909c1f9ec.jpg"
+    },
+      {
+      "id":99,
+      "id_wall":"099",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 19",
+      "image":"https://i.pinimg.com/564x/e4/d2/71/e4d2713e919155d27e609bf01312972a.jpg"
+    },
+    {
+      "id":100,
+      "id_wall":"100",
+      "nama_cat": "FreeFire 5",
+      "judul":"EImage 20",
+      "image":"https://i.pinimg.com/564x/78/d2/c1/78d2c1018948baf646cf010e67895ee5.jpg"
+    },
+	    {
+      "id":101,
+      "id_wall":"101",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 1",
+      "image":"https://i.pinimg.com/564x/9b/db/17/9bdb17dfe0f776a1ffa12f800e94af88.jpg"
+    },
+    {
+      "id":102,
+      "id_wall":"102",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 2",
+      "image":"https://i.pinimg.com/564x/96/1f/df/961fdf28c5fb408c4b29cf968c00860f.jpg"
+    },
+    {
+      "id":103,
+      "id_wall":"103",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 3",
+      "image":"https://i.pinimg.com/564x/74/1e/5d/741e5dff5843904cccd31e2b35d1c229.jpg"
+    },
+    {
+      "id":104,
+      "id_wall":"104",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 4",
+      "image":"https://i.pinimg.com/564x/cc/1e/60/cc1e604e72e8c2e6f8bc0d2ba061e5dd.jpg"
+    },
+    {
+      "id":105,
+      "id_wall":"105",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 5",
+      "image":"https://i.pinimg.com/564x/0d/22/20/0d2220274483a7559cfa1feb02167095.jpg"
+    },
+    {
+      "id":106,
+      "id_wall":"106",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 6",
+      "image":"https://i.pinimg.com/564x/84/63/5f/84635f13aab1518d1ca0560e26b502ef.jpg"
+    },
+	{
+      "id":107,
+      "id_wall":"107",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 7",
+      "image":"https://i.pinimg.com/564x/a2/9a/b8/a29ab8d7ef3e5cd6766c97cc3ba182d5.jpg"
+    },
+    {
+      "id":108,
+      "id_wall":"108",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 8",
+      "image":"https://i.pinimg.com/564x/ff/4f/d5/ff4fd55667bdf7378b686a64302864c1.jpg"
+    },
+    {
+      "id":109,
+      "id_wall":"109",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 9",
+      "image":"https://i.pinimg.com/564x/0b/76/6c/0b766c4a5e6145d7a2710b1bfaef6688.jpg"
+    },
+    {
+      "id":110,
+      "id_wall":"110",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 10",
+      "image":"https://i.pinimg.com/564x/93/73/c2/9373c2ddaa4a455909ce9e9349bc838a.jpg"
+    },
+    {
+      "id":111,
+      "id_wall":"111",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 11",
+      "image":"https://i.pinimg.com/564x/94/7a/2a/947a2a0897b7bc1f1ee44c3d7e013c62.jpg"
+    },
+    {
+      "id":112,
+      "id_wall":"112",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 12",
+      "image":"https://i.pinimg.com/564x/4d/42/a3/4d42a3dbda2f633565a1cc01026a0de7.jpg"
+    },
+	{
+      "id":113,
+      "id_wall":"113",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 13",
+      "image":"https://i.pinimg.com/564x/01/c4/be/01c4be1d3a003b01451d0a5db075e167.jpg"
+    },
+    {
+      "id":114,
+      "id_wall":"114",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 14",
+      "image":"https://i.pinimg.com/564x/6f/b2/9d/6fb29d3aac59b068dbc9de2d0a983422.jpg"
+    },
+      {
+      "id":115,
+      "id_wall":"115",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 15",
+      "image":"https://i.pinimg.com/564x/cd/6f/ec/cd6fecf073ea09ac95e7dd3c81303c2f.jpg"
+    },
+    {
+      "id":116,
+      "id_wall":"116",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 16",
+      "image":"https://i.pinimg.com/564x/60/a7/d7/60a7d732d772c8e669fa904fa46d9be9.jpg"
+    },
+	{
+      "id":117,
+      "id_wall":"117",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 17",
+      "image":"https://i.pinimg.com/564x/63/4a/6c/634a6caaa1255e4b2fffcd0914889bb8.jpg"
+    },
+    {
+      "id":118,
+      "id_wall":"118",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 18",
+      "image":"https://i.pinimg.com/564x/8e/eb/ad/8eebad0adc4393e7ea578e54c44f8f71.jpg"
+    },
+      {
+      "id":119,
+      "id_wall":"119",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 19",
+      "image":"https://i.pinimg.com/564x/49/fc/c3/49fcc384dc167b643ceb56c74d3051d6.jpg"
+    },
+    {
+      "id":120,
+      "id_wall":"120",
+      "nama_cat": "FreeFire 5",
+      "judul":"FImage 20",
+      "image":"https://i.pinimg.com/564x/60/92/52/60925247b3351f5f14eeebc06372046f.jpg"
+    }
+
+  ]
+}
